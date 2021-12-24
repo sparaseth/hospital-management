@@ -1,0 +1,36 @@
+//Project On Hospital Management
+
+Name of the Database:HOSPITAL_MANAGEMENT
+
+Tables
+
+  1.Patient_Table
+
+      ->Patient_Name
+      ->Patient_Age
+      ->Patient_Sex
+      ->Name_Of_Guardian
+      ->Address
+      ->Contact_Number
+      ->Blood_Group
+      ->Blood_Pressure
+      ->Weight
+         
+  2.Doctor_Table
+     
+      ->Doctor_Name
+      ->Specilist
+      ->Visiting_Time
+      ->Contact_Number
+      ->Email
+      ->Address
+
+Data Source Name:lish
+
+Project Profile:
+      
+   Module I:
+         Doctor
+   Module II:
+         Patient
+ 
